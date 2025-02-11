@@ -54,4 +54,14 @@ plan:
             emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
             path: contracts/ballot-creation.clar
             clarity-version: 2
+        - emulated-contract-publish:
+            contract-name: voter-registration
+            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
+            path: contracts/voter-registration.clar
+            clarity-version: 2
+        - emulated-contract-publish:
+            contract-name: vote-casting
+            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
+            path: contracts/vote-casting.clar
+            clarity-version: 2
       epoch: "2.5"
