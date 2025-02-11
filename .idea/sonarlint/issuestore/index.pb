@@ -13,3 +13,5 @@ P
  tests/voter-registration.test.ts,3/b/3b86ee71932407461fee104d0c1c5ddeb402c8f1
 K
 contracts/vote-casting.clar,e/d/ed4aa4b85cbbd39965d3cc1ae6b823c165d97eef
+J
+tests/vote-casting.test.ts,b/9/b904a3d4504ef29bd68af95671c3f9a9ee0b34df
